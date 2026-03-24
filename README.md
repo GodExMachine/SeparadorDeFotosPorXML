@@ -1,4 +1,4 @@
-**# Automação de Geração de ZIPs a partir de XML (NF-e)
+# Automação de Geração de ZIPs a partir de XML (NF-e)
 
 ## Visão Geral
 
@@ -23,4 +23,4 @@ xml: caminho/para/xml
 fotos: caminho/para/fotos
 zips: caminho/para/saida
 ```
-**
+
