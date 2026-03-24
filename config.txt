@@ -1,0 +1,3 @@
+fotos:fotos/
+xml:xml/
+zips:fotosNF/
